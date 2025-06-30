@@ -8,7 +8,7 @@
                                      
 ```
 
-[![repo-size](https://img.shields.io/github/languages/code-size/Ubpa/ULuaPP?style=flat)](https://github.com/Ubpa/ULuaPP/archive/master.zip) [![tag](https://img.shields.io/github/v/tag/Ubpa/ULuaPP)](https://github.com/Ubpa/ULuaPP/tags) [![license](https://img.shields.io/github/license/Ubpa/ULuaPP)](LICENSE) 
+[![repo-size](https://img.shields.io/github/languages/code-size/Ubpa/ULuaPP?style=flat)](https://github.com/alvin-me/ULuaPP/archive/master.zip) [![tag](https://img.shields.io/github/v/tag/Ubpa/ULuaPP)](https://github.com/alvin-me/ULuaPP/tags) [![license](https://img.shields.io/github/license/Ubpa/ULuaPP)](LICENSE) 
 
 ⭐ Star us on GitHub — it helps!
 
@@ -16,7 +16,7 @@
 
 Ubpa Lua++ (Lua &amp; C++)
 
-Auto register C++ class to Lua with [sol2](https://github.com/ThePhD/sol2) and [USRefl](https://github.com/Ubpa/USRefl) 
+Auto register C++ class to Lua with [sol2](https://github.com/ThePhD/sol2) and [USRefl](https://github.com/alvin-me/USRefl) 
 
 ## Example
 
